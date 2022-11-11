@@ -12,4 +12,10 @@ add again 222333
 
 TWN
 
+<<<<<<< HEAD
 TWN1
+=======
+JLagain
+
+JLagain135454545
+>>>>>>> 3dc3404cd20084cbdab528b951c64e3366427c62
