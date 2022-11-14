@@ -18,6 +18,10 @@ JLagain135454545
 
 mergeTest
 
+<<<<<<< Updated upstream
 123
 
 TWN
+=======
+twn
+>>>>>>> Stashed changes
